@@ -1,0 +1,24 @@
+ul {
+  color:magenta;
+}
+
+body {
+    background-color:#81BEF7;
+}
+
+.train-form {
+    background-color: yellow;
+}
+
+.input-field {
+    border: solid 5px blue;
+    font-size: 24px;
+}
+
+#intensity-heading {
+    color:orange;
+}
+
+#enjoyment-heading {
+    color:green;
+}
