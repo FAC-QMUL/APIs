@@ -10,8 +10,8 @@ Use your imagination! :stuck_out_tongue:
 Ok, now seriously:
 + Split into pairs and create a new ```Repo```.
 + Implement all the features you want from any of the APIs we learned this week.
-+ Please note that now you need to use your ```API key```.
-+ Before doing any code, you must create a ```repo``` and raise some ```issues``` on ```GitHub```.
++ If you want to use ```Google APIs```, make sure you use the ```API key``` you have already created.
++ Before doing any code, you must create a ```repo```  explaining your project and raise some ```issues``` on ```GitHub```.
 
 
 Here I listed a few examples of what you can do to inspire you:
