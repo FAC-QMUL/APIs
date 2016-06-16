@@ -30,5 +30,5 @@ During this five day course you will get an introduction to GitHub and the comma
 
 ## Thursday
 - **10:00 - 11:00** XMLHTTP Recap
-- **11:00** Google API
+- **11:00** [Google Maps API](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop)
 - **14:00** Final Project Brief
