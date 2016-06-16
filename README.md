@@ -19,4 +19,11 @@ During this five day course you will get an introduction to GitHub and the comma
 ## Tuesday  
 - **10:00 - 13:00** [Form workshop](https://github.com/FAC-QMUL/APIs/tree/master/GitHub-workshop) 
 - **13:00 - 14:00 Lunch**  
-- **14:00 - 17:00** Introduction to JavaScript  
+- **14:00 - 17:00** Introduction to JavaScript
+
+## Wednesday  
+- **10:00 - 11:00** Javascript challenges.
+- **11:00 - 12:00** Intro to API's.
+- **12:00 - 13:00** Postman challenge.
+- **14:00 - 15:30** Nasa Workshop.
+- **15:30 - 17:00** TFL Workshop.
