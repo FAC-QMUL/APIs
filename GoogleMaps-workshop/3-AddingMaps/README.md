@@ -20,7 +20,7 @@ Create a file called ```index.html``` and add the ```HTML``` code:
 </html>
 ```
 
-Now we are going to create a ```<div>``` inside the ```<body>``` tag with am ```id``` attribute of ```map```. We need this ```<div>``` because ```Google Map``` requires a page element (```<div>```), to display the map into our page.
+Now we are going to create a ```<div>``` inside the ```<body>``` tag with an ```id``` attribute of ```map```. We need this ```<div>``` because ```Google Map``` requires a page element (```<div>```), to display the map into our page.
 
 ```HTML
 <div id="map"></div>
