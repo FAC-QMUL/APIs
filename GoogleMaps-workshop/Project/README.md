@@ -9,7 +9,7 @@ Use your imagination! :stuck_out_tongue:
 
 Ok, now seriously:
 + Split into pairs and create a new ```Repo```.
-+ Implement all the features you want from the last tutorials.
++ Implement all the features you want from any of the APIs we learned this week.
 + Please note that now you need to use your ```API key```.
 + Before doing any code, you must create a ```repo``` and raise some ```issues``` on ```GitHub```.
 
