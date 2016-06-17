@@ -13,7 +13,7 @@ During this five day course you will get an introduction to GitHub and the comma
 - **10:00 - 11:00** [Introduction & Course Overview](https://docs.google.com/presentation/d/1cp7-GmmI8k4YhciqDfgjn-IsJQd-lrPuXClR9CbUzdI/edit?pref=2&pli=1#slide=id.g135bbe45fb_0_2)
 - **11:00 - 13:00** [Github workshop](https://github.com/FAC-QMUL/APIs/blob/master/GitWorkshop.pdf)
 - **13:00 - 14:00 Lunch**  
-- **14:00 - 16:30** [Introduction to HTML, CSS & GitHub Pages](https://docs.google.com/presentation/d/1ktT9JyoyMVY7Q5rCRlKyXqRjFb5f-w5R-nLaIuW0ZgU/edit#slide=id.g1121ff25b9_0_4) 
+- **14:00 - 16:30** [Introduction to HTML, CSS & GitHub Pages](https://docs.google.com/presentation/d/1ktT9JyoyMVY7Q5rCRlKyXqRjFb5f-w5R-nLaIuW0ZgU/edit?usp=sharing) 
 - **16:30 - 17:00** [Upload to GH Pages](https://pages.github.com/)
   
 ## Tuesday  
